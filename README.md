@@ -84,8 +84,3 @@ Throughout the course we are maintaining a student rating. It takes into account
 
 ### Community
 Discussions are held in the **#mlcourse_ai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
-
-*The course is free but you can support organizers by making a pledge on [Patreon](https://www.patreon.com/ods_mlcourse) (monthly support) or a one-time payment on [Ko-fi](https://ko-fi.com/mlcourse_ai). Thus you'll foster the spread of Machine Learning in the world!*
-
-[![Donate](https://img.shields.io/badge/support-patreon-red)](https://www.patreon.com/ods_mlcourse)
-[![Donate](https://img.shields.io/badge/support-ko--fi-red)](https://ko-fi.com/mlcourse_ai)
